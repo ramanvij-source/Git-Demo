@@ -1,2 +1,2 @@
-let myname = "John paul2222";
+let myname = "John paul1111";
 export { myname };
