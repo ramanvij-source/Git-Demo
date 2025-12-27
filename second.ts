@@ -8,4 +8,3 @@ console.log(myname2);
 console.log("second.ts"); 
 
 console.log("Testing Diff"); 
-console.log("Testing Diff"); 
