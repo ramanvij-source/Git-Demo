@@ -1,3 +1,2 @@
-let myname = "John paul1111";
-let age = 30;
+let myname = "John paul";
 export { myname };
