@@ -5,3 +5,6 @@ const aiveHi = () => {
 
 export { aiveHi };
 console.log(myname2);
+
+let testVar = "Testing Diff---3";
+//export { testVar };
