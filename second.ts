@@ -8,3 +8,4 @@ console.log(myname2);
 //console.log("second.ts"); 
 
 console.log("Testing Diff"); 
+console.log("This is the second.ts file");
