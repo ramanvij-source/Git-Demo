@@ -8,3 +8,7 @@ console.log(myname2);
 console.log("second.ts"); 
 
 console.log("Testing Diff---3"); 
+
+let func = () => {
+  console.log("Function in second.ts");
+}
