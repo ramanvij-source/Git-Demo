@@ -5,6 +5,6 @@ aiveHi();
 export const myname2 = myname;
 
 console.log(myname2);
-console.log("second.ts"); 
+//console.log("second.ts"); 
 
 console.log("Testing Diff"); 
